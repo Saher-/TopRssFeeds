@@ -9,5 +9,3 @@ Top RSS Feeds (Android)
 #### Current Design:
 - Using Taps & Fragments the application was build in a very simple and easy way.
 - built with Object Oriented design in mind, for the sake of code usability and modification (adding more categories or maybe enhance the current ones).
-
-#### Demo
